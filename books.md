@@ -33,7 +33,7 @@
 
 
 ### For experienced engineering leaders
-   1. [An Elegant Puzzle: Systems of Eng Management](https://lethain.com/elegant-puzzle/?ref=blog.pragmaticengineer.com)
+   1. [An Elegant Puzzle: Systems of Eng Management](https://lethain.com/elegant-puzzle/?ref=blog.pragmaticengineer.com) by Will Larson
    2. [Team Topologies](https://teamtopologies.com/book) by Matthew Skelton and Manuel Pais
 
 ## Other Functions
