@@ -28,9 +28,9 @@
    1. For those who are new to management, I recommend reading at least one of the following. Reading all of them is probably an overkill.
        1. [Become an Effective Software Engineering Manager](https://pragprog.com/titles/jsengman/become-an-effective-software-engineering-manager/?ref=blog.pragmaticengineer.com) by Dr. James Stanier
        2. [Engineering Management for the rest of us](https://www.engmanagement.dev/) by Sarah Drasner
-   
+       3.  [The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier   
    2. [The Making of a Manager](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager) by Julie Zhuo
-   3. [The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier
+
 
 ### For experienced engineering leaders
    1. [An Elegant Puzzle: Systems of Eng Management](https://lethain.com/elegant-puzzle/?ref=blog.pragmaticengineer.com)
