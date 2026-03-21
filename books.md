@@ -23,7 +23,7 @@
 ## Machine Learning and AI
 ### Theory
    1. [Probabilistic Machine Learning](https://mitpress.mit.edu/9780262046824/probabilistic-machine-learning/) by Kevin P. Murphy
-   2. [Pattern Classification](https://www.wiley.com/en-kr/Pattern+Classification%2C+2nd+Edition-p-9780471056690) by Richard O. Duda, Peter E. Hart, David G. Stork OR [Pattern Recognition and Machine Learning] by Christopher Bishop
+   2. [Pattern Classification](https://www.wiley.com/en-kr/Pattern+Classification%2C+2nd+Edition-p-9780471056690) by Richard O. Duda, Peter E. Hart, David G. Stork OR [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop
    3. [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
    4. [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/9780262039246/reinforcement-learning/) by Andrew Barto and Richard S. Sutton
    5. [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) by by Stuart Russell and Peter Norvig
